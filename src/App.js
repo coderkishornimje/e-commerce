@@ -3,7 +3,7 @@ import Home from './Home';
 import Reviews from './reviews';
 import { reviews } from './data/products';
 import Navbartop from './Navbartop';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div className="App">
