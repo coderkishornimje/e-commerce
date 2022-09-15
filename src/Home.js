@@ -2,7 +2,6 @@ import React from 'react'
 import {product} from './data/products.js';
 import {useDispatch,useSelector} from 
 'react-redux';
-import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import './App.css';
 
