@@ -1,6 +1,5 @@
 import './App.css';
 import Home from './Home';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Reviews from './reviews';
 import { reviews } from './data/products';
 import Navbartop from './Navbartop';
