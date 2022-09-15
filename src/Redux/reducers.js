@@ -1,5 +1,4 @@
 import {createReducer} from '@reduxjs/toolkit';
-import { reviews } from '../data/products';
 
 const initialState={
   count:0,
