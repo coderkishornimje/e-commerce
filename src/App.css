@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+/* New Code Started from here */
+
+.product-list{
+  display: inline-block;
+  margin: 2%;
+}
+
+button{
+  cursor: pointer;
+}
+.shop-cart{
+  color:white;
+  margin-top: 20%;
+  position: relative;
+  top: 8px;
+  font-size: 40px;
+  cursor: pointer;
+}
+#cart-count{
+  position: relative;
+  right: 18px;
+  bottom:5px;
+  background-color: white;
+  padding: 12%;
+  font-size: 20px;
+  border-radius: 50%;
+ margin-top: 6%;;
+ margin-bottom: 6%;
+ cursor: pointer;
+}
+
+span{
+  display: flex;
+  justify-content: left;
+  font-size: 20px;
+}
+.review-container{
+  margin-left: 20%;
+}
+
+
